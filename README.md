@@ -38,6 +38,3 @@ Building beautiful software, infrastructure, and hardware systems, defined by si
 **Misc**
 
 ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)      
-
-
-![Alt text](https://spotify-seven-dun.vercel.app/api?user=223hlp5eggrejg7uktp3n27ky&unique={true|1|on|yes})
